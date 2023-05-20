@@ -31,8 +31,8 @@ generar una clave ssh y copiar el valor en variable admin_ssh_key
 ```
 El despliegue se realizo desde Terraform Cloud y se cargaron las variables para la conexion del provider.
 Terraform Cloud
-![Alt text](https://github.com/joaquingraziano/terraforms-azure/blob/master/img/Terraform-Planapply.jpg)
-![Alt text](https://github.com/joaquingraziano/terraforms-azure/blob/master/img/RecursosCreadosazure.jpg)
+![Alt text](https://github.com/joaquingraziano/terraforms-azure/blob/main/img/Terraform-Planapply.jpg)
+![Alt text](https://github.com/joaquingraziano/terraforms-azure/blob/main/img/RecursosCreadosazure.jpg)
 
 
 
